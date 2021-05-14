@@ -1,2 +1,2 @@
 # Machine-Learning-Internship
-Machine Learning/AI Internship Assignments
+ GateWay Solutions ,Machine Learning/AI Internship Assignments.
